@@ -1,4 +1,4 @@
-#crea el diccionario y campos
+#crea el diccionario y Keys
 diccionario = {
     "nombre": "Javier",
     "apellido1":"Garzon",
