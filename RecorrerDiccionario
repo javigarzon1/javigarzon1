@@ -1,0 +1,19 @@
+#crea el diccionario y campos
+diccionario = {
+    "nombre": "Javier",
+    "apellido1":"Garzon",
+    "apellido2":"García",
+    "edad": 44
+}
+
+#recorre diccionario para obtener las claves
+for key in diccionario:
+    key
+    print(f"la clave es: {key}")
+    
+    
+#recorre diccionario con items() para obtener las claves y los valores de cada campo
+for datos in diccionario.items():
+    key = datos[0]
+    value = datos[1]
+    print(f"la clave del diccionario es: {key} y el valor es: {value}")
