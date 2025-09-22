@@ -19,7 +19,7 @@ aleatorio = random.randint(0, 9)
 
 password,primer_numero = crear_contraseña_aleatoria(aleatorio)
 
-#mostrando los resultados obtenidos y los datos utilizados para obtenerlo
+#mostrando los resultados obtenidos y el numero usado para crearla
 print(f"Tu contraseña nueva de 8 caracteres es: {password}")
 print(f"El nùmero utilizado para crear la contraseña fue: {aleatorio}")
 
