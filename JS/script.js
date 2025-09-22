@@ -1,6 +1,6 @@
 
 let N = 101;
-for (let i = 0; i <= N; i++) {
+for (let i= 0; i <= N; i++) {
   let output = "";
   if (i % 3 === 0 && i % 5 === 0) {
     output = "TicToc";
