@@ -3,7 +3,7 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/772de6af-dcb7-4c84-99f2-e3ec1b818981" />
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning PYTHON AND DJANGO
+- 🌱 I’m currently learning JAVA, PYTHON AND DJANGO
 - 👯 I’m looking to collaborate on PROJECTS
 - 🤔 I’m looking for practise
 - 💬 Ask me about me
@@ -17,13 +17,13 @@ Frontend Developer specializing in React and JavaScript with full stack foundati
 
 🛠️ Tech Stack
 Frontend
-React JavaScript PHP HTML5 CSS3 Bootstrap
+TypeScript React JavaScript PHP HTML5 CSS3 Bootstrap
 
 Backend
-Python DJANGO SQL API JWT
+JAVA Python DJANGO SQL API JWT
 
 Testing & DevOps
-Git GitHub 
+Git GitHub, Dockers
 
 🌱 Current Focus
 Building healthcare software at ResMed that genuinely helps people
@@ -34,7 +34,7 @@ Planning to travel more - Dublin is great but the world is bigger
 
 💼 Skills
 Technical Skills
-Frontend Development with React, PHP & CSS
+Frontend Development with TypeScript, React, PHP & CSS
 Testing Strategy & Implementation (Unit, Integration, E2E)
 API Integration & Backend Collaboration
 Database Design & Optimization
