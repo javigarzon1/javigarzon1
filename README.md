@@ -1,6 +1,6 @@
 ## Hi I´M JAVI 😄
 
-![image](https://github.com/user-attachments/assets/920156bb-9ac4-42f8-b93c-6b4c53424513)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/772de6af-dcb7-4c84-99f2-e3ec1b818981" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning PYTHON AND DJANGO
