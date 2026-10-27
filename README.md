@@ -17,10 +17,10 @@ Frontend Developer specializing in React and JavaScript with full stack foundati
 
 🛠️ Tech Stack
 Frontend
-TypeScript React JavaScript PHP HTML5 CSS3 Bootstrap
+TypeScript React JavaScript VUE PHP HTML5 CSS3 Bootstrap
 
 Backend
-JAVA Python DJANGO SQL API JWT
+JAVA Python FLASK DJANGO SQL API JWT
 
 Testing & DevOps
 Git GitHub, Dockers
